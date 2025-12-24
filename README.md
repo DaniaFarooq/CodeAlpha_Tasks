@@ -31,11 +31,15 @@ Tools: Jupyter Notebook, Git, VS Code
 
 Methodologies: Machine Learning, EDA, Model Evaluation
 
-## 📈 Results Summary
-Project    	                  Model	                Accuracy/R²	        Key Features
-Iris Classification	    Random Forest	               96.67%	          Petal measurements
-Car Price Prediction  	Random Forest Regressor    	 R²: 0.92	        Present Price, Car Age, Mileage
+## 📩 Feedback & Collaboration
 
-## 📫 Connect
-LinkedIn: www.linkedin.com/in/daniafarooq
-GitHub: www.github.com/DaniaFarooq
+Feel free to:  
+- ⭐ Star this repo if you find it helpful  
+- 🛠 Suggest improvements via [Issues](https://github.com/DaniaFarooq)  
+- 📥 Contribute through Pull Requests  
+
+Let’s learn and grow together 🚀  
+
+---
+
+> "Turning data into decisions, one model at a time."
