@@ -18,17 +18,6 @@ Validation: Stratified sampling
 
 Evaluation: Accuracy, Precision, Recall, F1-Score
 
-🚀 Quick Start
-bash
-## Clone and run
-git clone https://github.com/DaniaFarooq/CodeAlpha_Tasks.git
-
-cd CodeAlpha_Tasks/Task1_Iris_Classification
-
-pip install -r requirements.txt
-
-python iris_classifier.py
-
 ## 📈 Results & Performance
 ### Model Metrics
 
