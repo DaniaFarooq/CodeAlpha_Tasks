@@ -20,10 +20,10 @@ Evaluation Metrics: R² Score, MAE, RMSE
 
 ## 📈 Results & Performance
 ### Model Comparison
-Model	                   R²        Score	    MAE	RMSE
-Random Forest	          0.92	      0.65	    1.12
-Gradient Boosting      	0.89	      0.78	    1.45
-Linear Regression	      0.85	      0.91	    1.68
+Model	              |     R²   |     Score	 |   MAE	RMSE
+Random Forest	      |    0.92	 |     0.65	   | 1.12
+Gradient Boosting   |   0.89	 |     0.78	   | 1.45
+Linear Regression	  |    0.85	 |     0.91	   | 1.68
 
 ### Feature Importance
 Present Price (38.2%)
@@ -39,25 +39,15 @@ Transmission (5.1%)
 Brand (4.4%)
 
 ## 🎯 Key Insights
-Present Price is the strongest predictor of selling price
+Present Price is the strongest predictor of selling price.
 
-Diesel cars retain value better than petrol cars
+Diesel cars retain value better than petrol cars.
 
-Automatic transmission adds significant value
+Automatic transmission adds significant value.
 
-Car depreciation shows clear exponential pattern
+Car depreciation shows clear exponential pattern.
 
-Low mileage vehicles command premium prices
-
-## 🛠️ Tech Stack
-
-scikit-learn 
-
-pandas, numpy 
-
-matplotlib, seaborn 
-
-joblib       
+Low mileage vehicles command premium prices. 
 
 ## 📊 Business Impact
 Accuracy: Predicts prices within ±1.12 Lakhs (RMSE)
