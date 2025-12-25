@@ -21,8 +21,11 @@ Evaluation Metrics: R² Score, MAE, RMSE
 ## 📈 Results & Performance
 ### Model Comparison
 Model	              |     R²   |     Score	 |   MAE	RMSE
+
 Random Forest	      |    0.92	 |     0.65	   | 1.12
+
 Gradient Boosting   |   0.89	 |     0.78	   | 1.45
+
 Linear Regression	  |    0.85	 |     0.91	   | 1.68
 
 ### Feature Importance
