@@ -49,10 +49,13 @@ Model achieves near-perfect classification with minimal tuning
 
 ## 🛠️ Tech Stack
 
-scikit-learn  # ML algorithms
-pandas, numpy # Data processing
-matplotlib    # Visualization
-joblib        # Model serialization
+scikit-learn  
+
+pandas, numpy
+
+matplotlib    
+
+joblib       
 
 ## 💡 Features
 Complete EDA with visualizations
