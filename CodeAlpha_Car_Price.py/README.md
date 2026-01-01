@@ -42,6 +42,7 @@ Transmission (5.1%)
 Brand (4.4%)
 
 ## 🎯 Key Insights
+
 Present Price is the strongest predictor of selling price.
 
 Diesel cars retain value better than petrol cars.
